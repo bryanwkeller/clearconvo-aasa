@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": ["6BSYVJUVL7.app.clearconvo"],
-        "paths": ["/join/*"]
+        "paths": ["/join", "/join/*"]
       }
     ]
   }
